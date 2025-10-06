@@ -2,3 +2,7 @@ python -m venv venv
 
 
 venv\Scripts\activate
+
+streamlit run app.py : so sanh dang text nhap vap
+
+app2.py : so sanh 2 van ban dang pdf
