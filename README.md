@@ -17,9 +17,9 @@
 
 ## 📸 Demo / Hình ảnh
 
-*(Bạn nên chụp ảnh màn hình ứng dụng đang chạy và dán vào đây để người xem dễ hình dung)*
 
-![Demo ứng dụng](https://user-images.githubusercontent.com/26888748/189931328-9557476c-31b3-4421-b8a7-70f9595c2e36.png)
+![Demo giao diện ứng dụng so sánh văn bản](./assets/demo.png)
+
 *Giao diện so sánh văn bản*
 
 ## 🛠️ Công nghệ sử dụng
